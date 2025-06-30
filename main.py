@@ -2,7 +2,6 @@ import os
 import argparse
 from dotenv import load_dotenv
 from google import genai
-import sys
 from google.genai import types
 
 load_dotenv()
